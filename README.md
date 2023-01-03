@@ -1,4 +1,5 @@
-### <div align="center">Hi 👋, I'm Erick, a Software engineering student</div>  
+# <div align="center">Hi 👋, I'm Erick Bernal</div>
+### <div align="center">A Software engineering student</div>
   <br/>
 
 - 🔭 I’m currently working on **own projects**  
