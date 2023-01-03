@@ -69,6 +69,10 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lMahesvara&hide_border=true&layout=compact" align="left" />  
+<a href="https://github.com/marleneharms">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lMahesvara&hide=html&exclude_repo=SO2021,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=lMahesvara&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
+<a href="https://github.com/marleneharms">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lMahesvara&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+</a>  
