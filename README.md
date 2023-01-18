@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **NextJs, TypeScript and Sass**  
   
 
-- ❓ Ask me about anything related to **React, Java, TailwindCSS**  
+- ❓ Ask me about anything related to **React, Java, JavaScript**  
   
 
 - 📫 How to reach me **erick082016@gmail.com**  
