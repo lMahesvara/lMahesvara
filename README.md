@@ -11,7 +11,7 @@
 - ❓ Ask me about anything related to **React, Java, JavaScript**  
   
 
-- 📫 How to reach me **erick082016@gmail.com**  
+- 📫 How to reach me **erickbernal.dev@gmail.com**  
   
 
 <br/>  
