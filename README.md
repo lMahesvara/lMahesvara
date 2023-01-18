@@ -2,7 +2,7 @@
 ### <div align="center">A Software engineering student</div>
   <br/>
 
-- 🔭 I’m currently working on **own projects**  
+- 🔭 I’m currently working on **personal projects**  
   
 
 - 🌱 I’m currently learning **NextJs, TypeScript and Sass**  
