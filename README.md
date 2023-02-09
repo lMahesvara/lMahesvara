@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **personal projects**  
   
 
-- 🌱 I’m currently learning **NextJs, TypeScript and Sass**  
+- 🌱 I’m currently learning **Sass and NextAuth**  
   
 
 - ❓ Ask me about anything related to **React, Java, JavaScript**  
