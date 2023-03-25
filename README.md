@@ -5,10 +5,10 @@
 - 🔭 I’m currently working on **personal projects**  
   
 
-- 🌱 I’m currently learning **Sass and NextAuth**  
+- 🌱 I’m currently learning **Electron**  
   
 
-- ❓ Ask me about anything related to **React, Java, JavaScript**  
+- ❓ Ask me about anything related to **Next, Java, JS, TS**  
   
 
 - 📫 How to reach me **erickbernal.dev@gmail.com**  
